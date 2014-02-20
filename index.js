@@ -3,7 +3,7 @@
  * Module dependencies
  */
 
-var through = require('through')
+var through = require('juliangruber-through')
 
 /**
  * Creates a stream where the

@@ -1,0 +1,12 @@
+{
+  "name": "jwerle-node-stream",
+  "description": "DOM Node's as streams",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "juliangruber-through": "git://github.com/npmcomponent/juliangruber-through.git",
+    "timoxley-assert": "git://github.com/npmcomponent/timoxley-assert.git"
+  },
+  "license": "MIT"
+}
